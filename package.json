@@ -1,0 +1,20 @@
+{
+  "name": "ejercicios-eventos-nodejs",
+  "version": "1.0.0",
+  "description": "Ejercicios eventos Talentlogy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanPCT/Ejercicios-Eventos-NodeJs.git"
+  },
+  "author": "Juan Pablo Correa Tarazona",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuanPCT/Ejercicios-Eventos-NodeJs/issues"
+  },
+  "homepage": "https://github.com/JuanPCT/Ejercicios-Eventos-NodeJs#readme"
+}
