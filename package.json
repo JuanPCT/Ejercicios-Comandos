@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/JuanPCT/Ejercicios-Eventos-NodeJs/issues"
   },
-  "homepage": "https://github.com/JuanPCT/Ejercicios-Eventos-NodeJs#readme"
+  "homepage": "https://github.com/JuanPCT/Ejercicios-Eventos-NodeJs#readme",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "yargs": "^17.7.1"
+  }
 }
