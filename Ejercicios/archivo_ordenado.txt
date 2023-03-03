@@ -1,0 +1,5 @@
+Contiene varias frases y oraciones que pueden ser utilizadas para probar el código que lee y procesa archivos
+Este es un ejemplo de archivo de texto.
+Hola Mundo
+Las palabras en el archivo pueden estar separadas por espacios, comas, puntos y otros signos de puntuación.
+También puede haber palabras repetidas en el archivo, lo que permite probar el código que busca la palabra más común.
